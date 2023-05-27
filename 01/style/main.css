@@ -19,9 +19,9 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
+    font-family: 'Epilogue', sans-serif;
     font-weight: 700;
     background-color: #f9fafb;
-    font-family: 'Epilogue', sans-serif;
 }
 
 .container {
@@ -86,17 +86,16 @@ form {
     visibility: visible;
 }
 
-
 .form button {
     width: 100%;
     margin-bottom: 20px;
     padding: 10px;
     display: block;
     font-size: 16px;
+    font-family: 'Epilogue', sans-serif;
     color: #fff;
     cursor: pointer;
     border-radius: 4px;
     background-color: #3498db;
     border: 2px solid #3498db;
-
 }
